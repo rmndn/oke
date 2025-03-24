@@ -1,7 +1,7 @@
 {
-    "wait": "_Sedang Di Proses_",
+    "wait": "_「 🟠𝗧𝗥𝗔𝗡𝗦𝗔𝗞𝗦𝗜 𝗣𝗘𝗡𝗗𝗜𝗡𝗚 」  𝗣𝗲𝘀𝗮𝗻𝗮𝗻 𝗸𝗮𝗺𝘂 𝘀𝗲𝗱𝗮𝗻𝗴 𝗱𝗶 𝗽𝗿𝗼𝘀𝗲𝘀. 𝗺𝗼𝗵𝗼𝗻 𝗱𝗶 𝘁𝘂𝗻𝗴𝗴𝘂 𝘆𝗮𝗮 ✨_",
     "error": {
-        "Iv": "Link yang kamu berikan tidak valid",
+        "Iv": "𝗹𝗶𝗻𝗸 𝘆𝗮𝗻𝗴 𝗸𝗮𝘂 𝗸𝗶𝗿𝗶𝗺 𝘁𝗶𝗱𝗮𝗸 𝘃𝗮𝗹𝗶𝗱 𝗸𝗼𝗰𝗮𝗸!!!",
         "api": "Maaf terjadi kesalahan"
     },
     "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
@@ -9,5 +9,5 @@
     "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
     "BotAdmin": "Bot Harus menjadi admin",
     "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
-    "OnlyPrem": "Perintah ini khusus member premium"
+    "OnlyPrem": "khusus member premium, emang kau premium ktl!!!"
 }
