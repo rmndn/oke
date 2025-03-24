@@ -7,7 +7,7 @@
     "footer": "2023 © api.zeeoneofc.my.id",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
-    "pathimg": "./Haruka.jpg",
+    "pathimg": "./thumbnail.jpg",
     "BotKey": "QNVJXmcRXtZPcUF",
     "OpenAIKey": "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",
     "audio_di_bagian_menu": "./menu.mp3",
